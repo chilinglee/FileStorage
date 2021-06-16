@@ -1,0 +1,56 @@
+{
+    "employee0001": {
+        "firstname": "Jill",
+        "height": 158,
+        "email": "jill@gmail.com",
+        "city": {
+            "通訊地址": "新竹",
+            "戶籍地址": "臺南"
+        },
+        "phone": {
+            "市話": "02-22224444",
+            "行動電話": "0933-444555"
+        },
+        "cars": [
+            "BMW",
+            "Nissan GT-R",
+            "Audi"
+        ]
+    },
+    "employee0002": {
+        "firstname": "Ryan",
+        "height": 170,
+        "email": "Ryan@gmail.com",
+        "city": {
+            "通訊地址": "新竹",
+            "戶籍地址": "臺中"
+        },
+        "phone": {
+            "市話": "02-2221123",
+            "行動電話": "0933-12341234"
+        },
+        "cars": [
+            "BMW",
+            "Nissan GT-R",
+            "Audi"
+        ]
+    },
+    "employee0003": {
+        "firstname": "Kate",
+        "height": 168,
+        "email": "Kate@gmail.com",
+        "city": {
+            "通訊地址": "新竹",
+            "戶籍地址": "桃園"
+        },
+        "phone": {
+            "市話": "02-8886666",
+            "行動電話": "0933-789789"
+        },
+        "cars": [
+            "BMW",
+            "Nissan GT-R",
+            "Audi"
+        ]
+    }
+}
