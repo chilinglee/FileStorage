@@ -1,0 +1,418 @@
+[
+    {
+        "ID": "1",
+        "number": "A",
+        "pattern": "spade",
+        "img": "https://image.flaticon.com/icons/png/512/445/445100.png",
+        "ruleTitle": "A-Waterfall",
+        "rule": "瀑布：所有玩家一起開始喝酒，指定一個方向（順時針或逆時針），前一個玩家停下，後一個玩家才能停下"
+    },
+    {
+        "ID": "2",
+        "number": "2",
+        "pattern": "spade",
+        "img": "https://image.flaticon.com/icons/png/512/445/445100.png",
+        "ruleTitle": "2-Take Two GiveTwo",
+        "rule": "先喝掉自己小杯子的酒兩杯，再指定兩位玩家各喝一杯小杯子的酒"
+    },
+    {
+        "ID": "3",
+        "number": "3",
+        "pattern": "spade",
+        "img": "https://image.flaticon.com/icons/png/512/445/445100.png",
+        "ruleTitle": "3-Guys",
+        "rule": "所有男性喝掉自己小杯子的酒"
+    },
+    {
+        "ID": "4",
+        "number": "4",
+        "pattern": "spade",
+        "img": "https://image.flaticon.com/icons/png/512/445/445100.png",
+        "ruleTitle": "4-Girls",
+        "rule": "所有女性玩家喝掉自己小杯子的酒"
+    },
+    {
+        "ID": "5",
+        "number": "5",
+        "pattern": "spade",
+        "img": "https://image.flaticon.com/icons/png/512/445/445100.png",
+        "ruleTitle": "5-Make a Rule",
+        "rule": "訂一項新的遊戲規則（例如：不能拍手），一旦有玩家犯規，就要喝掉自己小杯子裏的酒"
+    },
+    {
+        "ID": "6",
+        "number": "6",
+        "pattern": "spade",
+        "img": "https://image.flaticon.com/icons/png/512/445/445100.png",
+        "ruleTitle": "6-Next",
+        "rule": "下一位喝掉小杯子裏的酒"
+    },
+    {
+        "ID": "7",
+        "number": "7",
+        "pattern": "spade",
+        "img": "https://image.flaticon.com/icons/png/512/445/445100.png",
+        "ruleTitle": "7-Heaven",
+        "rule": "天堂：當你手指向天空時，最慢指向天空的玩家喝掉自己小杯子裏的酒"
+    },
+    {
+        "ID": "8",
+        "number": "8",
+        "pattern": "spade",
+        "img": "https://image.flaticon.com/icons/png/512/445/445100.png",
+        "ruleTitle": "8-Mate",
+        "rule": "酒伴：指定一位玩家當你的酒伴，後面的回合當你要喝酒時，你的酒伴要陪你喝酒"
+    },
+    {
+        "ID": "9",
+        "number": "9",
+        "pattern": "spade",
+        "img": "https://image.flaticon.com/icons/png/512/445/445100.png",
+        "ruleTitle": "9-Bust a Rhyme",
+        "rule": "押韻：隨意說一個詞匯，接下來順時鐘方向每個玩家輪流説出和它有押韻的單詞，説不出來的玩家喝酒"
+    },
+    {
+        "ID": "10",
+        "number": "10",
+        "pattern": "spade",
+        "img": "https://image.flaticon.com/icons/png/512/445/445100.png",
+        "ruleTitle": "Categories",
+        "rule": "分類：任意指定一個類別，接下來順時鐘方向每個玩家輪流説出和他有關的項目，説不出來的玩家喝酒"
+    },
+    {
+        "ID": "11",
+        "number": "J",
+        "pattern": "spade",
+        "img": "https://image.flaticon.com/icons/png/512/445/445100.png",
+        "ruleTitle": "J-ALL",
+        "rule": "所有玩家喝掉自己小杯子裏的酒"
+    },
+    {
+        "ID": "11",
+        "number": "Q",
+        "pattern": "spade",
+        "img": "https://image.flaticon.com/icons/png/512/445/445100.png",
+        "ruleTitle": "Q-Had Never",
+        "rule": "説一件你從未做過的事， 若是有玩家做過就要喝酒"
+    },
+    {
+        "ID": "13",
+        "number": "K",
+        "pattern": "spade",
+        "img": "https://image.flaticon.com/icons/png/512/445/445100.png",
+        "ruleTitle": "K-King Pile",
+        "rule": "加任意的酒到國王杯中，第四個抽到K的人將喝掉國王杯，並遊戲結束"
+    },
+    {
+        "ID": "14",
+        "number": "A",
+        "pattern": "heart",
+        "img": "https://image.flaticon.com/icons/png/512/445/445099.png",
+        "ruleTitle": "A-Waterfall",
+        "rule": "瀑布：所有玩家一起開始喝酒，指定一個方向（順時針或逆時針），前一個玩家停下，後一個玩家才能停下"
+    },
+    {
+        "ID": "15",
+        "number": "2",
+        "pattern": "heart",
+        "img": "https://image.flaticon.com/icons/png/512/445/445099.png",
+        "ruleTitle": "2-Take Two GiveTwo",
+        "rule": "先喝掉自己小杯子的酒兩杯，再指定兩位玩家各喝一杯小杯子的酒"
+    },
+    {
+        "ID": "16",
+        "number": "3",
+        "pattern": "heart",
+        "img": "https://image.flaticon.com/icons/png/512/445/445099.png",
+        "ruleTitle": "3-Guys",
+        "rule": "所有男性喝掉自己小杯子的酒"
+    },
+    {
+        "ID": "17",
+        "number": "4",
+        "pattern": "heart",
+        "img": "https://image.flaticon.com/icons/png/512/445/445099.png",
+        "ruleTitle": "4-Girls",
+        "rule": "所有女性玩家喝掉自己小杯子的酒"
+    },
+    {
+        "ID": "18",
+        "number": "5",
+        "pattern": "heart",
+        "img": "https://image.flaticon.com/icons/png/512/445/445099.png",
+        "ruleTitle": "5-Make a Rule",
+        "rule": "訂一項新的遊戲規則（例如：不能拍手），一旦有玩家犯規，就要喝掉自己小杯子裏的酒"
+    },
+    {
+        "ID": "19",
+        "number": "6",
+        "pattern": "heart",
+        "img": "https://image.flaticon.com/icons/png/512/445/445099.png",
+        "ruleTitle": "6-Next",
+        "rule": "下一位喝掉小杯子裏的酒"
+    },
+    {
+        "ID": "20",
+        "number": "7",
+        "pattern": "heart",
+        "img": "https://image.flaticon.com/icons/png/512/445/445099.png",
+        "ruleTitle": "7-Heaven",
+        "rule": "天堂：當你手指向天空時，最慢指向天空的玩家喝掉自己小杯子裏的酒"
+    },
+    {
+        "ID": "21",
+        "number": "8",
+        "pattern": "heart",
+        "img": "https://image.flaticon.com/icons/png/512/445/445099.png",
+        "ruleTitle": "8-Mate",
+        "rule": "酒伴：指定一位玩家當你的酒伴，後面的回合當你要喝酒時，你的酒伴要陪你喝酒"
+    },
+    {
+        "ID": "22",
+        "number": "9",
+        "pattern": "heart",
+        "img": "https://image.flaticon.com/icons/png/512/445/445099.png",
+        "ruleTitle": "9-Bust a Rhyme",
+        "rule": "押韻：隨意說一個詞匯，接下來順時鐘方向每個玩家輪流説出和它有押韻的單詞，説不出來的玩家喝酒"
+    },
+    {
+        "ID": "23",
+        "number": "10",
+        "pattern": "heart",
+        "img": "https://image.flaticon.com/icons/png/512/445/445099.png",
+        "ruleTitle": "Categories",
+        "rule": "分類：任意指定一個類別，接下來順時鐘方向每個玩家輪流説出和他有關的項目，説不出來的玩家喝酒"
+    },
+    {
+        "ID": "24",
+        "number": "J",
+        "pattern": "heart",
+        "img": "https://image.flaticon.com/icons/png/512/445/445099.png",
+        "ruleTitle": "J-ALL",
+        "rule": "所有玩家喝掉自己小杯子裏的酒"
+    },
+    {
+        "ID": "25",
+        "number": "Q",
+        "pattern": "heart",
+        "img": "https://image.flaticon.com/icons/png/512/445/445099.png",
+        "ruleTitle": "Q-Had Never",
+        "rule": "説一件你從未做過的事， 若是有玩家做過就要喝酒"
+    },
+    {
+        "ID": "26",
+        "number": "K",
+        "pattern": "heart",
+        "img": "https://image.flaticon.com/icons/png/512/445/445099.png",
+        "ruleTitle": "K-King Pile",
+        "rule": "加任意的酒到國王杯中，第四個抽到K的人將喝掉國王杯，並遊戲結束"
+    },
+    {
+        "ID": "27",
+        "number": "A",
+        "pattern": "daimond",
+        "img": "https://image.flaticon.com/icons/png/512/445/445102.png",
+        "ruleTitle": "A-Waterfall",
+        "rule": "瀑布：所有玩家一起開始喝酒，指定一個方向（順時針或逆時針），前一個玩家停下，後一個玩家才能停下"
+    },
+    {
+        "ID": "28",
+        "number": "2",
+        "pattern": "daimond",
+        "img": "https://image.flaticon.com/icons/png/512/445/445102.png",
+        "ruleTitle": "2-Take Two GiveTwo",
+        "rule": "先喝掉自己小杯子的酒兩杯，再指定兩位玩家各喝一杯小杯子的酒"
+    },
+    {
+        "ID": "29",
+        "number": "3",
+        "pattern": "daimond",
+        "img": "https://image.flaticon.com/icons/png/512/445/445102.png",
+        "ruleTitle": "3-Guys",
+        "rule": "所有男性喝掉自己小杯子的酒"
+    },
+    {
+        "ID": "30",
+        "number": "4",
+        "pattern": "daimond",
+        "img": "https://image.flaticon.com/icons/png/512/445/445102.png",
+        "ruleTitle": "4-Girls",
+        "rule": "所有女性玩家喝掉自己小杯子的酒"
+    },
+    {
+        "ID": "31",
+        "number": "5",
+        "pattern": "daimond",
+        "img": "https://image.flaticon.com/icons/png/512/445/445102.png",
+        "ruleTitle": "5-Make a Rule",
+        "rule": "訂一項新的遊戲規則（例如：不能拍手），一旦有玩家犯規，就要喝掉自己小杯子裏的酒"
+    },
+    {
+        "ID": "32",
+        "number": "6",
+        "pattern": "daimond",
+        "img": "https://image.flaticon.com/icons/png/512/445/445102.png",
+        "ruleTitle": "6-Next",
+        "rule": "下一位喝掉小杯子裏的酒"
+    },
+    {
+        "ID": "33",
+        "number": "7",
+        "pattern": "daimond",
+        "img": "https://image.flaticon.com/icons/png/512/445/445102.png",
+        "ruleTitle": "7-Heaven",
+        "rule": "天堂：當你手指向天空時，最慢指向天空的玩家喝掉自己小杯子裏的酒"
+    },
+    {
+        "ID": "34",
+        "number": "8",
+        "pattern": "daimond",
+        "img": "https://image.flaticon.com/icons/png/512/445/445102.png",
+        "ruleTitle": "8-Mate",
+        "rule": "酒伴：指定一位玩家當你的酒伴，後面的回合當你要喝酒時，你的酒伴要陪你喝酒"
+    },
+    {
+        "ID": "35",
+        "number": "9",
+        "pattern": "daimond",
+        "img": "https://image.flaticon.com/icons/png/512/445/445102.png",
+        "ruleTitle": "9-Bust a Rhyme",
+        "rule": "押韻：隨意說一個詞匯，接下來順時鐘方向每個玩家輪流説出和它有押韻的單詞，説不出來的玩家喝酒"
+    },
+    {
+        "ID": "36",
+        "number": "10",
+        "pattern": "daimond",
+        "img": "https://image.flaticon.com/icons/png/512/445/445102.png",
+        "ruleTitle": "Categories",
+        "rule": "分類：任意指定一個類別，接下來順時鐘方向每個玩家輪流説出和他有關的項目，説不出來的玩家喝酒"
+    },
+    {
+        "ID": "37",
+        "number": "J",
+        "pattern": "daimond",
+        "img": "https://image.flaticon.com/icons/png/512/445/445102.png",
+        "ruleTitle": "J-ALL",
+        "rule": "所有玩家喝掉自己小杯子裏的酒"
+    },
+    {
+        "ID": "38",
+        "number": "Q",
+        "pattern": "daimond",
+        "img": "https://image.flaticon.com/icons/png/512/445/445102.png",
+        "ruleTitle": "Q-Had Never",
+        "rule": "説一件你從未做過的事， 若是有玩家做過就要喝酒"
+    },
+    {
+        "ID": "39",
+        "number": "K",
+        "pattern": "daimond",
+        "img": "https://image.flaticon.com/icons/png/512/445/445102.png",
+        "ruleTitle": "K-King Pile",
+        "rule": "加任意的酒到國王杯中，第四個抽到K的人將喝掉國王杯，並遊戲結束"
+    },
+    {
+        "ID": "40",
+        "number": "A",
+        "pattern": "club",
+        "img": "https://image.flaticon.com/icons/png/512/445/445101.png",
+        "ruleTitle": "A-Waterfall",
+        "rule": "瀑布：所有玩家一起開始喝酒，指定一個方向（順時針或逆時針），前一個玩家停下，後一個玩家才能停下"
+    },
+    {
+        "ID": "41",
+        "number": "2",
+        "pattern": "club",
+        "img": "https://image.flaticon.com/icons/png/512/445/445101.png",
+        "ruleTitle": "2-Take Two GiveTwo",
+        "rule": "先喝掉自己小杯子的酒兩杯，再指定兩位玩家各喝一杯小杯子的酒"
+    },
+    {
+        "ID": "42",
+        "number": "3",
+        "pattern": "club",
+        "img": "https://image.flaticon.com/icons/png/512/445/445101.png",
+        "ruleTitle": "3-Guys",
+        "rule": "所有男性喝掉自己小杯子的酒"
+    },
+    {
+        "ID": "43",
+        "number": "4",
+        "pattern": "club",
+        "img": "https://image.flaticon.com/icons/png/512/445/445101.png",
+        "ruleTitle": "4-Girls",
+        "rule": "所有女性玩家喝掉自己小杯子的酒"
+    },
+    {
+        "ID": "44",
+        "number": "5",
+        "pattern": "club",
+        "img": "https://image.flaticon.com/icons/png/512/445/445101.png",
+        "ruleTitle": "5-Make a Rule",
+        "rule": "訂一項新的遊戲規則（例如：不能拍手），一旦有玩家犯規，就要喝掉自己小杯子裏的酒"
+    },
+    {
+        "ID": "45",
+        "number": "6",
+        "pattern": "club",
+        "img": "https://image.flaticon.com/icons/png/512/445/445101.png",
+        "ruleTitle": "6-Next",
+        "rule": "下一位喝掉小杯子裏的酒"
+    },
+    {
+        "ID": "46",
+        "number": "7",
+        "pattern": "club",
+        "img": "https://image.flaticon.com/icons/png/512/445/445101.png",
+        "ruleTitle": "7-Heaven",
+        "rule": "天堂：當你手指向天空時，最慢指向天空的玩家喝掉自己小杯子裏的酒"
+    },
+    {
+        "ID": "47",
+        "number": "8",
+        "pattern": "club",
+        "img": "https://image.flaticon.com/icons/png/512/445/445101.png",
+        "ruleTitle": "8-Mate",
+        "rule": "酒伴：指定一位玩家當你的酒伴，後面的回合當你要喝酒時，你的酒伴要陪你喝酒"
+    },
+    {
+        "ID": "48",
+        "number": "9",
+        "pattern": "club",
+        "img": "https://image.flaticon.com/icons/png/512/445/445101.png",
+        "ruleTitle": "9-Bust a Rhyme",
+        "rule": "押韻：隨意說一個詞匯，接下來順時鐘方向每個玩家輪流説出和它有押韻的單詞，説不出來的玩家喝酒"
+    },
+    {
+        "ID": "49",
+        "number": "10",
+        "pattern": "club",
+        "img": "https://image.flaticon.com/icons/png/512/445/445101.png",
+        "ruleTitle": "Categories",
+        "rule": "分類：任意指定一個類別，接下來順時鐘方向每個玩家輪流説出和他有關的項目，説不出來的玩家喝酒"
+    },
+    {
+        "ID": "50",
+        "number": "J",
+        "pattern": "club",
+        "img": "https://image.flaticon.com/icons/png/512/445/445101.png",
+        "ruleTitle": "J-ALL",
+        "rule": "所有玩家喝掉自己小杯子裏的酒"
+    },
+    {
+        "ID": "51",
+        "number": "Q",
+        "pattern": "club",
+        "img": "https://image.flaticon.com/icons/png/512/445/445101.png",
+        "ruleTitle": "Q-Had Never",
+        "rule": "説一件你從未做過的事， 若是有玩家做過就要喝酒"
+    },
+    {
+        "ID": "52",
+        "number": "K",
+        "pattern": "club",
+        "img": "https://image.flaticon.com/icons/png/512/445/445101.png",
+        "ruleTitle": "K-King Pile",
+        "rule": "加任意的酒到國王杯中，第四個抽到K的人將喝掉國王杯，並遊戲結束"
+    }
+]
