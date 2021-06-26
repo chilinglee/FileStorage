@@ -76,7 +76,7 @@
         "number": "10",
         "pattern": "spade",
         "img": "https://image.flaticon.com/icons/png/512/445/445100.png",
-        "ruleTitle": "Categories",
+        "ruleTitle": "10-Categories",
         "rule": "分類：任意指定一個類別，接下來順時鐘方向每個玩家輪流説出和他有關的項目，説不出來的玩家喝酒"
     },
     {
@@ -180,7 +180,7 @@
         "number": "10",
         "pattern": "heart",
         "img": "https://image.flaticon.com/icons/png/512/445/445099.png",
-        "ruleTitle": "Categories",
+        "ruleTitle": "10-Categories",
         "rule": "分類：任意指定一個類別，接下來順時鐘方向每個玩家輪流説出和他有關的項目，説不出來的玩家喝酒"
     },
     {
@@ -284,7 +284,7 @@
         "number": "10",
         "pattern": "daimond",
         "img": "https://image.flaticon.com/icons/png/512/445/445102.png",
-        "ruleTitle": "Categories",
+        "ruleTitle": "10-Categories",
         "rule": "分類：任意指定一個類別，接下來順時鐘方向每個玩家輪流説出和他有關的項目，説不出來的玩家喝酒"
     },
     {
@@ -388,7 +388,7 @@
         "number": "10",
         "pattern": "club",
         "img": "https://image.flaticon.com/icons/png/512/445/445101.png",
-        "ruleTitle": "Categories",
+        "ruleTitle": "10-Categories",
         "rule": "分類：任意指定一個類別，接下來順時鐘方向每個玩家輪流説出和他有關的項目，説不出來的玩家喝酒"
     },
     {
